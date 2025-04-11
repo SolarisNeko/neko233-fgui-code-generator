@@ -1,0 +1,14 @@
+{
+  "name": "neko233-fgui-generate-cdoe",
+  "displayName": "neko233-fgui-generate-cdoe",
+  "description": "生成 FGUI 代码 for Unity/Cocos",
+  "version": "1.0",
+  "author": {
+    "name": "Windows"
+  },
+  "icon": "",
+  "main": "main.js",
+  "dependencies": {
+    "typescript": "^5.8.3"
+  }
+}
