@@ -77,3 +77,23 @@ Modify Comment
 
 
 ![image-20250411204327727](./.assets/README/image-20250411204327727.png)
+
+
+
+## Generate Code 生成代码
+
+
+
+Path use relative Path Like
+
+```sh
+# Resources
+../Assets/Resources/Resources-FGUI
+
+# Code
+../Assets/CodeHotUpdate/AutoGenerateCode/FGUI-Generate-Code
+```
+
+
+
+![image-20250411204559174](./.assets/README/image-20250411204559174.png)
