@@ -20,6 +20,8 @@ FairyGUI 代码生成器，用于生成 FGUI 代码
 2. C# (Unity)
 
 
+
+
 ## How To Use ? 
 
 ### 1. Install Plugin (安装插件)
@@ -61,3 +63,17 @@ Open `Deploy Config`
 See here
 
 ![image-20250411203643328](./.assets/README/image-20250411203643328.png)
+
+
+
+
+
+## How To Switch Language Generate ? 切换语言生成
+
+Modify Comment 
+
+修改注释
+
+
+
+![image-20250411204327727](./.assets/README/image-20250411204327727.png)
